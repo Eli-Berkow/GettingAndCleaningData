@@ -1,7 +1,7 @@
 GettingAndCleaningData
 ======================
 
-#run_analysis.R
+##run_analysis.R
 
 * Set the working directory to where the Samsung data is stored
 * Load the data
