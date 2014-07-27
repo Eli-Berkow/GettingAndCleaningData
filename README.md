@@ -3,13 +3,13 @@ GettingAndCleaningData
 
 run_analysis.R
 
-  Set the working directory to where the Samsung data is stored
-  Load the data
-  Appropriately label the data set with descriptive variable names
-  Merge the training and test sets to create one data set
-  Extract the mean and standard deviation columns for each measurement
-  Replace numbers with descriptive activity names for activities in the data set
-  Create a second, independent tidy data set with the average of each variable for each activity and each subject
+* Set the working directory to where the Samsung data is stored
+* Load the data
+* Appropriately label the data set with descriptive variable names
+* Merge the training and test sets to create one data set
+* Extract the mean and standard deviation columns for each measurement
+* Replace numbers with descriptive activity names for activities in the data set
+* Create a second, independent tidy data set with the average of each variable for each activity and each subject
   
   
 
