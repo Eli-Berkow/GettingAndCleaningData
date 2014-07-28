@@ -9,7 +9,7 @@
 * Only the mean and standard deviation data were retained
 * A tidy data set was created containing a summary of the averages of each variable for each activity and each subject
 
-####The following columns/variables remain in the tidy data set:
+###The following columns/variables remain in the tidy data set:
 
 * Subject
 * Activity
